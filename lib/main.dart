@@ -39,7 +39,19 @@ void test() {
   // person['lastname'] = 'Pal';
   // print(person);
 
-  
+  // NOTE: Nulable Variable
+  // String? name = null;
+  // print(name);
+  // name = 'raj';;
+  // print(name);
+
+  // int? age = 20;
+  // age = null;
+  // print(age);
+
+  // List<String?>? name = ['raj', 'boo', null];
+  // // name = null;
+  // print(name);
 
 }
 
