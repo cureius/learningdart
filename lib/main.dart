@@ -7,7 +7,12 @@ void main() {
 void test() {
   // TODO:
   // FIXME: REVIEW: INFO: WARNING: DEBUG: TODO(Raj): NOTE: HACK:
-
+  /*
+    * dvdvsvv
+    ! depricated :
+    ? should it work:
+    todo: do
+  */
   // NOTE: In Dart you can applu oparations on a string.
   // final name = 'Souraj pal';
   // final nameMultiply = name * 200;
@@ -52,7 +57,6 @@ void test() {
   // List<String?>? name = ['raj', 'boo', null];
   // // name = null;
   // print(name);
-
 }
 
 class MyApp extends StatelessWidget {
